@@ -1,0 +1,46 @@
+_repo: Memoirs-of-General-Lafayette--13-With-an-Account-of-His-Visit-to-America-and-His-Reception-By-__7449
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis
+      de
+    aliases:
+    - Du Motier, Gilbert, marquis de Lafayette
+    - Lafayette, marquis de
+    birthdate: 1757
+    deathdate: 1834
+    gutenberg_agent_id: '2473'
+    url: http://www.gutenberg.org/2009/agents/2473
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_du_Motier%2C_Marquis_de_La_Fayette
+creator:
+  author:
+    agent_name: Knapp, Samuel L. (Samuel Lorenzo)
+    aliases:
+    - Bey, Ali
+    - Knapp, Samuel Lorenzo
+    - Soult, Marshal
+    - Shahcoolen
+    - Robertson, Ignatius Loyola
+    birthdate: 1783
+    deathdate: 1838
+    gutenberg_agent_id: '34348'
+    url: http://www.gutenberg.org/2009/agents/34348
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834'
+- !lcc 'E201'
+- !lcsh 'United States -- History -- Revolution, 1775-1783'
+- !lcsh 'France -- History -- 1789-1900'
+- GITenberg
+title: "Memoirs of General Lafayette\r\nWith an Account of His Visit to America and\
+  \ His Reception By the People of the United States; From His Arrival, August 15th,\
+  \ to the Celebration at Yorktown, October 19th, 1824."
+url: http://www.gutenberg.org/ebooks/7449
