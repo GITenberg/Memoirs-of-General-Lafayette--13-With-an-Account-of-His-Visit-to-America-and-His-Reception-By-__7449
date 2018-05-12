@@ -1,5 +1,5 @@
 _repo: Memoirs-of-General-Lafayette--13-With-an-Account-of-His-Visit-to-America-and-His-Reception-By-__7449
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '2473'
     url: http://www.gutenberg.org/2009/agents/2473
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_du_Motier%2C_Marquis_de_La_Fayette
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Knapp, Samuel L. (Samuel Lorenzo)
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '34348'
     url: http://www.gutenberg.org/2009/agents/34348
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7449#Memoirs-of-General-Lafayette--13-With-an-Account-of-His-Visit-to-America-and-His-Reception-By-_
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
